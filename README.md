@@ -2,9 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Studying in 2nd year IT Engineering at pravara rural college of engineering
   
-  .
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 GaikwadShiva/GaikwadShiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
